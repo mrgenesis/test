@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c83846c5-aa26-4f72-9c0d-1960e527e9b1/resourceGroups/exemploLivro/providers/Microsoft.Web/sites/exlivro",
+    "appService.deploySubpath": "."
+}
